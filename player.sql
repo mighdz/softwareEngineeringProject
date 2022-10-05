@@ -13,3 +13,5 @@ VALUES (1, 'Jim', 'Strother', 'Opus');
 
 INSERT INTO player (id, first_name, last_name, codename)
 VALUES (2, 'Lora', 'Streeter', 'Bill');
+
+print('Hello World')
