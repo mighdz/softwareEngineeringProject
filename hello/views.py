@@ -6,9 +6,10 @@ from .models import Greeting
 
 # Create your views here.
 def index(request):
-    r = requests.get('EntryScreen.html')
-    print(r.text)
-    return HttpResponse('<pre>' + r.text + '</pre>')
+    return render(request, 'EntryScreen.html')
+    # r = requests.get('https://httpbin.org/status/418')
+    # print(r.text)
+    # return HttpResponse('<pre>' + r.text + '</pre>')
 
 
 def db(request):
