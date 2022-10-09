@@ -6,7 +6,7 @@ from .models import Greeting
 
 # Create your views here.
 def index(request):
-    r = requests.get('https://httpbin.org/status/418')
+    r = requests.get('EntryScreen.html')
     print(r.text)
     return HttpResponse('<pre>' + r.text + '</pre>')
 
