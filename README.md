@@ -3,10 +3,9 @@
 # Team 5 - Laser Tag
 
 # Team members
-1. Miguel Hernandez-Gonzalez
-1. Keith Mussino
-1. Len Huang
-1. Grant Botti
-1. Dylan Vaughn
 1. Preston Birdsong
-
+1. Grant Botti
+1. Miguel Hernandez-Gonzalez
+1. Len Huang
+1. Keith Mussino
+1. Dylan Vaughn
